@@ -5,7 +5,7 @@
 <h5>This application is still in early stages and I will be adding more to it over time</h5>
 
 <h6>A user may add their income for that month, the month and year is kept track at the top of the page</h6>
-![](https://user-images.githubusercontent.com/45002275/74857445-fa91e100-5343-11ea-9c32-26ab11f66d43.png)
+![BudgetAPPimage1](https://user-images.githubusercontent.com/45002275/74861061-041e4780-534a-11ea-842c-1f511a74abd6.png)
 
 <h6>The user then may include their expenses for that month</h6>
 <h6>The expenses will be calculated from the total income and a percent value will be represented at the top of the page next to the total expenses</h6>
