@@ -14,6 +14,6 @@
 
 <h6>If a user makes a mistake of adding any income or expense they are able to delete the value, all income or expenses may be deleted if the user desires</h6>
 <h6>To delete any information their is a small 'X' that appear when you hover your mouse over the right side of the income or expense</h6>
-![](https://user-images.githubusercontent.com/45002275/74857522-139a9200-5344-11ea-8a8c-f61d50ae9705.png)
+![BudgetAPP image 3](https://user-images.githubusercontent.com/45002275/74861274-5e1f0d00-534a-11ea-88c9-6130ad3cae43.png)
 
 
